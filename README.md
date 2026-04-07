@@ -18,7 +18,7 @@ Analyzed British Airways customer reviews to identify key drivers of satisfactio
 
 ## Dashboard
 
-<img width="2025" height="1003" alt="Screenshot-BudgetCard-2025" src="https://github.com/user-attachments/assets/e2598893-e034-4472-844b-dabd4a5d56f2" />
+<img width="1499" height="898" alt="Screenshot 2026-04-07 174431" src="https://github.com/user-attachments/assets/798fa307-efbe-420a-88ee-8b36eb8a1f08" />
 
 
 ## Project Insight
