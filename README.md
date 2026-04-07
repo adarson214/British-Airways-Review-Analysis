@@ -16,6 +16,11 @@ Analyzed British Airways customer reviews to identify key drivers of satisfactio
 - Tableau Prep: Aggregated ratings by country, aircraft, and time using grouping and calculated measures.
 - Visualization: Built an interactive Tableau dashboard with filters for aircraft type, country, and traveler type.
 
+## Dashboard
+
+<img width="2025" height="1003" alt="Screenshot-BudgetCard-2025" src="https://github.com/user-attachments/assets/e2598893-e034-4472-844b-dabd4a5d56f2" />
+
+
 ## Project Insight
 - Overall Customer Rating: British Airways has an average rating of approximately 4.2 / 10, indicating generally low customer satisfaction.
 - Recommendation Rate: Only about 33% of customers recommend the airline.
